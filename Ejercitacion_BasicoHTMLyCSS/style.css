@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.card{
+    background-color: #669bbc;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    padding: 50px;
+    padding-bottom: 25px;  
+    
+}
+
+.card_title{
+    font-size: 22px;
+    margin: 0;
+}
+
+.card_subtitle{
+    font-size: 13px;
+    font-weight: 100%;
+    letter-spacing: 2px;
+}
+
+.card_content{
+    
+
+}
+
+
+.card_img{
+    width: 200px;
+    border-radius: 100%;
+
+}
